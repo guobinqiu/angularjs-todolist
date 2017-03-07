@@ -25,7 +25,7 @@ Running `grunt test` will run the unit tests with karma.
 
 ### 检查版本
  
- yo --version && bower --version && grunt --version
+`yo --version && bower --version && grunt --version`
 
 ### 生成脚手架
 
@@ -37,7 +37,7 @@ yo
 
 ### 运行http服务
 
-grunt serve
+`grunt serve`
 
 ### 访问
 
