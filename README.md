@@ -1,19 +1,6 @@
-# mytodo
-
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
-
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
-
 # todolist
 
-### 安装
+## 安装
 
 1. 安装nodejs https://nodejs.org/en/ 以获得npm
 
@@ -43,6 +30,6 @@ yo
 
 http://localhost:9000/#!/home
 
-# 其他
+## 其他
 
 后台调用了nodejs api，also see https://github.com/guobinqiu/nodejs_api
