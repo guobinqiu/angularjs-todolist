@@ -42,3 +42,7 @@ yo
 ### 访问
 
 http://localhost:9000/#!/home
+
+# 其他
+
+后台调用了nodejs api，also see https://github.com/guobinqiu/nodejs_api
