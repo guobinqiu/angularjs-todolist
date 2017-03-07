@@ -32,4 +32,4 @@ http://localhost:9000/#!/home
 
 ## 其他
 
-后台调用了nodejs api，also see https://github.com/guobinqiu/nodejs_api
+调用了nodejs的服务，also see https://github.com/guobinqiu/nodejs_api
