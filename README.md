@@ -10,17 +10,9 @@
 
 4. 通过npm安装Yeoman `npm install -g yo`
 
-### 检查版本
- 
-`yo --version && bower --version && grunt --version`
+5. 检查版本 `yo --version && bower --version && grunt --version`
 
-### 生成脚手架
-
-```
-mkdir mytodo 
-cd mytodo
-yo
-```
+6. bower install
 
 ### 运行http服务
 
@@ -32,12 +24,17 @@ http://localhost:9000/#!/home
 
 ## 其他
 
-调用了nodejs的服务，also see https://github.com/guobinqiu/nodejs_api
++ 调用了nodejs的服务，also see https://github.com/guobinqiu/nodejs_api
 
-## 随便写写
++ 生成脚手架
 
-bower init, 生成bower.json配置文件
+```
+mkdir mytodo 
+cd mytodo
+yo
+```
++ bower init, 生成bower.json配置文件
 
-bower install PACKAGE --save  ,--save保存到依赖包到bower.json
++ bower install PACKAGE --save  ,--save保存到依赖包到bower.json
 
-bower install, 从bower.json安装依赖包
++ bower install, 从bower.json安装依赖包
