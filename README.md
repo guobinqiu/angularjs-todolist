@@ -33,3 +33,9 @@ http://localhost:9000/#!/home
 ## 其他
 
 调用了nodejs的服务，also see https://github.com/guobinqiu/nodejs_api
+
+bower init, 生成bower.json配置文件
+
+bower install PACKAGE --save  ,--save保存到依赖包到bower.json
+
+bower install, 从bower.json安装依赖包
