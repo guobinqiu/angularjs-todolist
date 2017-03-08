@@ -35,6 +35,6 @@ yo
 ```
 + bower init, 生成bower.json配置文件
 
-+ bower install PACKAGE --save  ,--save保存依赖信息到bower.json
++ bower install PACKAGE --save, 安装依赖包，同时保存依赖信息到bower.json
 
 + bower install, 从bower.json安装依赖包
