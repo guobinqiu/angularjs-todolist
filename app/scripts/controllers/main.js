@@ -23,7 +23,6 @@ app.controller('MainCtrl', ['$scope', '$resource', 'taskService', function($scop
     //     });
     // }
 
-    
 
     // https://docs.angularjs.org/api/ngResource/service/$resource
 
