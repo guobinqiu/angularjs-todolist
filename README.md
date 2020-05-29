@@ -1,4 +1,4 @@
-Todolist
+AngularJS Todolist
 ---
 
 ### Install
